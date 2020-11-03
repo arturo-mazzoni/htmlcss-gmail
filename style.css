@@ -1,0 +1,71 @@
+body{
+  background-image: url(https://media.istockphoto.com/photos/old-wood-texture-dirty-surface-wooden-background-brown-wood-dark-picture-id1055059900?k=6&m=1055059900&s=170667a&w=0&h=qn45YngKlmPmrzQzEAFI7sWDZ2NI8M5_uK2EgY9hcEc=);
+  background-size: cover;
+}
+
+/* header */
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+.gmaillogo{
+  width: 300px;
+  vertical-align: middle;
+}
+.gmailtext{
+  font-size: 30px;
+  color: white;
+  display: inline-block;
+}
+
+/* fine header */
+
+/* barra di ricerca */
+
+#msg-qnt{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+  padding: 10px;
+  vertical-align: middle;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+}
+
+/* fine barra di ricerca */
+
+/* tutte le email */
+
+.row {
+  background-color: lightgrey;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.testo-email{
+  color: grey;
+}
+
+/* fine tutte le email */
+
+/* footer */
+
+.credits{
+  text-align: center;
+}
+
+#name-company{
+  font-size: 20px;
+  color: white;
+}
+
+#sponsor {
+  color: white;
+}
+
+/* fine footer */
